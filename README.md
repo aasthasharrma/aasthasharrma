@@ -1,8 +1,4 @@
-hello my name is aastha shaarma i am 18 year old and majoring in computer science at the university of texas at dallas and here are some fun facts about me:
-
-no fun facts
-
-thankl yopu for reading
+hello my name is aastha sharma, I am a freshman at the University of Texas at Dallas majoring in Computer Sceince. 
 
 <!--
 **aasthasharrma/aasthasharrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
