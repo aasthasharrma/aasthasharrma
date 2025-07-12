@@ -1,4 +1,4 @@
-hello my name is aastha sharma, I am a freshman at the University of Texas at Dallas majoring in Computer Science
+Hey! I'm Aastha, I'm studying computer science, finance, and statistics at The University of Texas at Dallas. Hope you like my github page:)
 
 <!--
 **aasthasharrma/aasthasharrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
